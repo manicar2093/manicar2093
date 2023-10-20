@@ -2,7 +2,7 @@
 
 My name is Manuel and I am a software developer since 2019 currently living in Mexico City and working at [@Montebit](https://montebit.com/).
 
-I'm currently working on maximaze my golang and python development skills looking to learn Data Science and Machine Learning this 2023.
+I'm currently working on maximize my golang development skills looking to contribute with my experience and knowledge.
 
 ## 🛠️ Skills
 
