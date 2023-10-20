@@ -4,6 +4,8 @@ My name is Manuel and I am a software developer since 2019 currently living in M
 
 I'm currently working on maximize my golang development skills looking to contribute with my experience and knowledge.
 
+You can visit [my personal web](https://manicar2093.github.io/manicar_resume/) site to have more information about me
+
 ## 🛠️ Skills
 
 ### Languages
