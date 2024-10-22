@@ -1,6 +1,6 @@
 # Welcome! 👋
 
-My name is Manuel and I am a software developer since 2019 currently living in Mexico City and working at [@Montebit](https://montebit.com/).
+My name is Manuel and I am a software developer since 2019 currently living in Mexico City and working at [@Kunai](https://kunaico.com/).
 
 I'm currently working on maximize my golang development skills looking to contribute with my experience and knowledge.
 
